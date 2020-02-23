@@ -4,3 +4,6 @@ Important links::
 https://gombru.github.io/2018/05/23/cross_entropy_loss/
 https://www.tensorflow.org/api_docs/python/tf/train/RMSPropOptimizer
 http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
+https://wikipedia.org/wiki/Stochastic_gradient_descent#RMSProp
+https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture
+https://developers.google.com/machine-learning/glossary/#AdaGrad
